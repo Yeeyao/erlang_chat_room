@@ -1,0 +1,65 @@
+erl -s chat_room_test_client start chat_room_test_client  -hidden -sname client -setcookie 123456 -pa ./ebin/
+
+// 启动测试
+chat_room_test_client:client_login(0, 100).
+chat_room_test_client:client_start_op(0, 100, 10).
+
+chat_room_test_client:client_login(0, 1000).
+chat_room_test_client:client_start_op(0, 1000, 10).
+chat_room_test_client:client_stop_op().
+chat_room_test_client:client_logout(0, 1000)
+
+chat_room_test_client:client_login(0, 4000).
+chat_room_test_client:client_start_op(0, 4000, 10).
+chat_room_test_client:client_stop_op().
+chat_room_test_client:client_logout(0, 4000)
+
+chat_room_test_client:client_login(0, 8000).
+chat_room_test_client:client_start_op(0, 8000, 10).
+chat_room_test_client:client_stop_op()
+chat_room_test_client:client_logout(0, 8000)
+
+// 停止
+chat_room_test_client:client_stop_op().
+chat_room_log_server:stop()
+
+calendar:now_to_local_time(erlang:now()).
+
+// 查看单用户流量信息
+chat_room_log_server:get_one_user_log_info()
+chat_room_log_server:get_all_user_log_info()
+
+//　单用户监控
+chat_client_server:start(a9999).
+chat_client_server:command(a9999, {set_client_debug, true}).
+
+chat_client_server:start(a19999).
+chat_client_server:command(a19999, {set_client_debug, true}).
+
+chat_client_server:start(a0).
+chat_client_server:command(a0, {set_client_log_info_debug, true}).
+chat_client_server:command(a0, {set_client_debug, true}).
+chat_client_server:command(a0, {get_self_log_info}).
+
+chat_client_server:command(a2000, {set_client_log_info_debug, true})
+
+chat_client_server:command(a2000, {get_self_log_info})
+
+chat_client_server:command(a0, {private_chat, a1, "a0pchello"}).
+chat_client_server:command(a0, {channel_chat, "a0cchello"}).
+chat_client_server:command(a0, {world_chat, "a0wchello"}).
+chat_client_server:command(a0, {near_chat, "a0nchello"}).
+chat_client_server:command(a0, {join_channel, ch1}).
+chat_client_server:command(a0, {leave_channel, ch2}).
+chat_client_server:command(a0, {change_current_channel, ch1}).
+
+chat_client_server:command(a0, {get_channel_user_info})
+chat_client_server:command(a0, {random_move})
+
+chat_client_server:start(a1).
+chat_client_server:command(a1, {set_client_debug, true}).
+chat_client_server:command(a1, {get_channel_user_info}).
+chat_client_server:command(a1, {random_move})
+
+// 运行情况监控：
+spawn(fun() -> etop:start([{interval,30}, {sort, memory}, {lines,20}]) end)

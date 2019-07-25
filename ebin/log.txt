@@ -1,0 +1,3110 @@
+UserName:log_sum_info
+Date: {{2018,9,3},{20,35,54}}
+Begin Log Time: 978092062.607
+Op Times: 0
+Msg Op Times: 0
+Other Op Times: 0
+UserName:log_sum_info
+Date: {{2018,9,3},{20,41,57}}
+Begin Log Time: 978492320.286
+Op Times: 0
+Msg Op Times: 0
+Other Op Times: 0
+Data Flow Bytes: 0
+Data Send Bytes: 0
+Data Recv Bytes: 0
+Data Flow MegaBytes: 0.0
+Data Send MegaBytes: 0.0
+Data Recv MegaBytes: 0.0
+Msg Flow Bytes: 0
+Msg Send Bytes: 0
+Msg Recv Bytes: 0
+Msg Flow MegaBytes: 0.0
+Msg Send MegaBytes: 0.0
+Msg Recv Bytes: 0.0
+Data Length Avg: 0
+Data Frequency: 0
+Msg Length Avg: 0
+Msg Frequency: 0
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,43,5}}
+Begin Log Time: 978492320.286
+Op Times: 0
+Msg Op Times: 0
+Other Op Times: 0
+Data Flow Bytes: 0
+Data Send Bytes: 0
+Data Recv Bytes: 0
+Data Flow MegaBytes: 0.0
+Data Send MegaBytes: 0.0
+Data Recv MegaBytes: 0.0
+Msg Flow Bytes: 0
+Msg Send Bytes: 0
+Msg Recv Bytes: 0
+Msg Flow MegaBytes: 0.0
+Msg Send MegaBytes: 0.0
+Msg Recv Bytes: 0.0
+Data Length Avg: 0
+Data Frequency: 0
+Msg Length Avg: 0
+Msg Frequency: 0
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,43,49}}
+Begin Log Time: 978492320.286
+Op Times: 355424
+Msg Op Times: 346169
+Other Op Times: 9255
+Data Flow Bytes: 42744052
+Data Send Bytes: 23721977
+Data Recv Bytes: 19022075
+Data Flow MegaBytes: 42744052.0
+Data Send MegaBytes: 23721977.0
+Data Recv MegaBytes: 19022075.0
+Msg Flow Bytes: 28241945
+Msg Send Bytes: 8217652
+Msg Recv Bytes: 28241737
+Msg Flow MegaBytes: 28241945.0
+Msg Send MegaBytes: 8217652.0
+Msg Recv Bytes: 28241737.0
+Data Length Avg: 120
+Data Frequency: 3290.426714810673
+Msg Length Avg: 82
+Msg Frequency: 3204.746233904564
+
+UserName:a0
+Date: {{2018,9,3},{20,43,50}}
+Begin Log Time: 978495450.929
+Op Times: 82
+Msg Op Times: 80
+Other Op Times: 2
+Data Flow Bytes: 9849
+Data Send Bytes: 5416
+Data Recv Bytes: 4433
+Data Flow MegaBytes: 9849.0
+Data Send MegaBytes: 5416.0
+Data Recv MegaBytes: 4433.0
+Msg Flow Bytes: 6490
+Msg Send Bytes: 1920
+Msg Recv Bytes: 6490
+Msg Flow MegaBytes: 6490.0
+Msg Send MegaBytes: 1920.0
+Msg Recv Bytes: 6490.0
+Data Length Avg: 120
+Data Frequency: 0.8365319543837966
+Msg Length Avg: 81
+Msg Frequency: 0.8161287359841918
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,44,18}}
+Begin Log Time: 978492320.286
+Op Times: 559585
+Msg Op Times: 547425
+Other Op Times: 12160
+Data Flow Bytes: 67340220
+Data Send Bytes: 37394433
+Data Recv Bytes: 29945787
+Data Flow MegaBytes: 67340220.0
+Data Send MegaBytes: 37394433.0
+Data Recv MegaBytes: 29945787.0
+Msg Flow Bytes: 44465587
+Msg Send Bytes: 12932072
+Msg Recv Bytes: 44464665
+Msg Flow MegaBytes: 44465587.0
+Msg Send MegaBytes: 12932072.0
+Msg Recv Bytes: 44464665.0
+Data Length Avg: 120
+Data Frequency: 3458.972268769372
+Msg Length Avg: 81
+Msg Frequency: 3383.8074541509754
+
+UserName:a0
+Date: {{2018,9,3},{20,44,19}}
+Begin Log Time: 978495450.929
+Op Times: 126
+Msg Op Times: 124
+Other Op Times: 2
+Data Flow Bytes: 15167
+Data Send Bytes: 8350
+Data Recv Bytes: 6817
+Data Flow MegaBytes: 15167.0
+Data Send MegaBytes: 8350.0
+Data Recv MegaBytes: 6817.0
+Msg Flow Bytes: 9984
+Msg Send Bytes: 2942
+Msg Recv Bytes: 9984
+Msg Flow MegaBytes: 9984.0
+Msg Send MegaBytes: 2942.0
+Msg Recv Bytes: 9984.0
+Data Length Avg: 120
+Data Frequency: 0.8184525718591967
+Msg Length Avg: 81
+Msg Frequency: 0.805461261194765
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,44,44}}
+Begin Log Time: 978492320.286
+Op Times: 559585
+Msg Op Times: 547425
+Other Op Times: 12160
+Data Flow Bytes: 67340220
+Data Send Bytes: 37394433
+Data Recv Bytes: 29945787
+Data Flow MegaBytes: 67340220.0
+Data Send MegaBytes: 37394433.0
+Data Recv MegaBytes: 29945787.0
+Msg Flow Bytes: 44465587
+Msg Send Bytes: 12932072
+Msg Recv Bytes: 44464665
+Msg Flow MegaBytes: 44465587.0
+Msg Send MegaBytes: 12932072.0
+Msg Recv Bytes: 44464665.0
+Data Length Avg: 120
+Data Frequency: 3458.972268769372
+Msg Length Avg: 81
+Msg Frequency: 3383.8074541509754
+
+UserName:a0
+Date: {{2018,9,3},{20,44,45}}
+Begin Log Time: 978495450.929
+Op Times: 126
+Msg Op Times: 124
+Other Op Times: 2
+Data Flow Bytes: 15167
+Data Send Bytes: 8350
+Data Recv Bytes: 6817
+Data Flow MegaBytes: 15167.0
+Data Send MegaBytes: 8350.0
+Data Recv MegaBytes: 6817.0
+Msg Flow Bytes: 9984
+Msg Send Bytes: 2942
+Msg Recv Bytes: 9984
+Msg Flow MegaBytes: 9984.0
+Msg Send MegaBytes: 2942.0
+Msg Recv Bytes: 9984.0
+Data Length Avg: 120
+Data Frequency: 0.8184525718591967
+Msg Length Avg: 81
+Msg Frequency: 0.805461261194765
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,45,20}}
+Begin Log Time: 978492320.286
+Op Times: 695697
+Msg Op Times: 680166
+Other Op Times: 15531
+Data Flow Bytes: 82904672
+Data Send Bytes: 46068566
+Data Recv Bytes: 36836106
+Data Flow MegaBytes: 82904672.0
+Data Send MegaBytes: 46068566.0
+Data Recv MegaBytes: 36836106.0
+Msg Flow Bytes: 54403875
+Msg Send Bytes: 15650226
+Msg Recv Bytes: 54402647
+Msg Flow MegaBytes: 54403875.0
+Msg Send MegaBytes: 15650226.0
+Msg Recv Bytes: 54402647.0
+Data Length Avg: 119
+Data Frequency: 3479.7611153955413
+Msg Length Avg: 80
+Msg Frequency: 3402.0776269182184
+
+UserName:a0
+Date: {{2018,9,3},{20,45,21}}
+Begin Log Time: 978495450.929
+Op Times: 174
+Msg Op Times: 172
+Other Op Times: 2
+Data Flow Bytes: 20475
+Data Send Bytes: 11313
+Data Recv Bytes: 9162
+Data Flow MegaBytes: 20475.0
+Data Send MegaBytes: 11313.0
+Data Recv MegaBytes: 9162.0
+Msg Flow Bytes: 13293
+Msg Send Bytes: 3798
+Msg Recv Bytes: 13293
+Msg Flow MegaBytes: 13293.0
+Msg Send MegaBytes: 3798.0
+Msg Recv Bytes: 13293.0
+Data Length Avg: 118
+Data Frequency: 0.912828900515764
+Msg Length Avg: 77
+Msg Frequency: 0.9023366143029392
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,47,2}}
+Begin Log Time: 978797060.049
+Op Times: 0
+Msg Op Times: 0
+Other Op Times: 0
+Data Flow Bytes: 0
+Data Send Bytes: 0
+Data Recv Bytes: 0
+Data Flow MegaBytes: 0.0
+Data Send MegaBytes: 0.0
+Data Recv MegaBytes: 0.0
+Msg Flow Bytes: 0
+Msg Send Bytes: 0
+Msg Recv Bytes: 0
+Msg Flow MegaBytes: 0.0
+Msg Send MegaBytes: 0.0
+Msg Recv Bytes: 0.0
+Data Length Avg: 0
+Data Frequency: 0
+Msg Length Avg: 0
+Msg Frequency: 0
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,50,12}}
+Begin Log Time: 978895419.878
+Op Times: 0
+Msg Op Times: 0
+Other Op Times: 0
+Data Flow Bytes: 0
+Data Send Bytes: 0
+Data Recv Bytes: 0
+Data Flow MegaBytes: 0.0
+Data Send MegaBytes: 0.0
+Data Recv MegaBytes: 0.0
+Msg Flow Bytes: 0
+Msg Send Bytes: 0
+Msg Recv Bytes: 0
+Msg Flow MegaBytes: 0.0
+Msg Send MegaBytes: 0.0
+Msg Recv Bytes: 0.0
+Data Length Avg: 0
+Data Frequency: 0
+Msg Length Avg: 0
+Msg Frequency: 0
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,53,1}}
+Begin Log Time: 978895419.878
+Op Times: 0
+Msg Op Times: 0
+Other Op Times: 0
+Data Flow Bytes: 0
+Data Send Bytes: 0
+Data Recv Bytes: 0
+Data Flow MegaBytes: 0.0
+Data Send MegaBytes: 0.0
+Data Recv MegaBytes: 0.0
+Msg Flow Bytes: 0
+Msg Send Bytes: 0
+Msg Recv Bytes: 0
+Msg Flow MegaBytes: 0.0
+Msg Send MegaBytes: 0.0
+Msg Recv Bytes: 0.0
+Data Length Avg: 0
+Data Frequency: 0
+Msg Length Avg: 0
+Msg Frequency: 0
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,53,2}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3238.9327563930574
+Msg Length Avg: 122
+Msg Frequency: 3209.26728103561
+
+UserName:a0
+Date: {{2018,9,3},{20,53,2}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,53,2}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3231.962385564228
+Msg Length Avg: 122
+Msg Frequency: 3202.360752027407
+
+UserName:a0
+Date: {{2018,9,3},{20,53,2}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,53,2}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3231.962385564228
+Msg Length Avg: 122
+Msg Frequency: 3202.360752027407
+
+UserName:a0
+Date: {{2018,9,3},{20,53,3}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,53,3}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{20,53,3}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,53,3}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{20,53,21}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,53,47}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{20,54,18}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,54,49}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{20,55,7}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,55,28}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{20,55,50}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,56,29}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{20,56,51}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,57,28}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{20,57,44}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,58,8}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{20,58,38}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,58,58}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{20,59,18}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{20,59,31}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,0,12}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,0,31}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,0,46}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,1,12}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,1,36}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,2,16}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,2,37}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,2,55}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,3,33}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,3,48}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,4,7}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,4,37}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,4,53}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,5,24}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,5,47}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,6,20}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,6,59}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,7,15}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,7,39}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,8,9}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,8,45}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,9,9}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,9,40}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,9,57}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,10,17}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,10,43}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,11,4}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,11,28}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,11,50}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,12,18}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,12,35}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,12,59}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,13,24}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,14,5}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,14,34}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,14,54}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,15,6}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,15,28}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,15,49}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,16,15}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,16,24}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,16,52}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,17,24}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,17,52}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,18,13}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,18,48}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,19,11}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,19,46}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,20,27}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,20,47}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,21,9}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,21,29}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,22,2}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,22,25}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,23,5}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,23,30}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,24,1}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,24,27}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,24,51}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,25,4}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,25,37}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,26,8}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,26,36}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,27,4}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,27,39}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,28,15}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,28,48}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,29,7}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,29,30}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+
+UserName:log_sum_info
+Date: {{2018,9,3},{21,30,17}}
+Begin Log Time: 978895419.878
+Op Times: 928592
+Msg Op Times: 920087
+Other Op Times: 8505
+Data Flow Bytes: 148300889
+Data Send Bytes: 80117584
+Data Recv Bytes: 68183305
+Data Flow MegaBytes: 148300889.0
+Data Send MegaBytes: 80117584.0
+Data Recv MegaBytes: 68183305.0
+Msg Flow Bytes: 112402530
+Msg Send Bytes: 41992808
+Msg Recv Bytes: 112402498
+Msg Flow MegaBytes: 112402530.0
+Msg Send MegaBytes: 41992808.0
+Msg Recv Bytes: 112402498.0
+Data Length Avg: 160
+Data Frequency: 3224.8791841530347
+Msg Length Avg: 122
+Msg Frequency: 3195.3424258552877
+
+UserName:a0
+Date: {{2018,9,3},{21,30,47}}
+Begin Log Time: 978898995.014
+Op Times: 244
+Msg Op Times: 242
+Other Op Times: 2
+Data Flow Bytes: 38019
+Data Send Bytes: 20418
+Data Recv Bytes: 17601
+Data Flow MegaBytes: 38019.0
+Data Send MegaBytes: 20418.0
+Data Recv MegaBytes: 17601.0
+Msg Flow Bytes: 28530
+Msg Send Bytes: 10659
+Msg Recv Bytes: 28530
+Msg Flow MegaBytes: 28530.0
+Msg Send MegaBytes: 10659.0
+Msg Recv Bytes: 28530.0
+Data Length Avg: 156
+Data Frequency: 0.8652047764893848
+Msg Length Avg: 118
+Msg Frequency: 0.8581129340591439
+UserName:log_sum_info
+Date: {{2018,9,4},{9,32,21}}
+Begin Log Time: 24721280.178
+Op Times: 0
+Msg Op Times: 0
+Other Op Times: 0
+Data Flow Bytes: 0
+Data Send Bytes: 0
+Data Recv Bytes: 0
+Data Flow MegaBytes: 0.0
+Data Send MegaBytes: 0.0
+Data Recv MegaBytes: 0.0
+Msg Flow Bytes: 0
+Msg Send Bytes: 0
+Msg Recv Bytes: 0
+Msg Flow MegaBytes: 0.0
+Msg Send MegaBytes: 0.0
+Msg Recv Bytes: 0.0
+Data Length Avg: 0
+Data Frequency: 0
+Msg Length Avg: 0
+Msg Frequency: 0
+
+UserName:log_sum_info
+Date: {{2018,9,4},{11,47,19}}
+Begin Log Time: 32819971.373
+Op Times: 0
+Msg Op Times: 0
+Other Op Times: 0
+Data Flow Bytes: 0
+Data Send Bytes: 0
+Data Recv Bytes: 0
+Data Flow MegaBytes: 0.0
+Data Send MegaBytes: 0.0
+Data Recv MegaBytes: 0.0
+Msg Flow Bytes: 0
+Msg Send Bytes: 0
+Msg Recv Bytes: 0
+Msg Flow MegaBytes: 0.0
+Msg Send MegaBytes: 0.0
+Msg Recv Bytes: 0.0
+Data Length Avg: 0
+Data Frequency: 0
+Msg Length Avg: 0
+Msg Frequency: 0
+
+UserName:log_sum_info
+Date: {{2018,9,4},{11,47,39}}
+Begin Log Time: 32819971.373
+Op Times: 100383
+Msg Op Times: 98295
+Other Op Times: 2088
+Data Flow Bytes: 15084726
+Data Send Bytes: 8159569
+Data Recv Bytes: 6925157
+Data Flow MegaBytes: 15084726.0
+Data Send MegaBytes: 8159569.0
+Data Recv MegaBytes: 6925157.0
+Msg Flow Bytes: 11333536
+Msg Send Bytes: 4251465
+Msg Recv Bytes: 11333388
+Msg Flow MegaBytes: 11333536.0
+Msg Send MegaBytes: 4251465.0
+Msg Recv Bytes: 11333388.0
+Data Length Avg: 150
+Data Frequency: 2911.146984603821
+Msg Length Avg: 115
+Msg Frequency: 2850.594152910678
+
+UserName:a0
+Date: {{2018,9,4},{11,47,39}}
+Begin Log Time: 32823836.735
+Op Times: 984
+Msg Op Times: 971
+Other Op Times: 13
+Data Flow Bytes: 147583
+Data Send Bytes: 79493
+Data Recv Bytes: 68090
+Data Flow MegaBytes: 147583.0
+Data Send MegaBytes: 79493.0
+Data Recv MegaBytes: 68090.0
+Msg Flow Bytes: 110633
+Msg Send Bytes: 41669
+Msg Recv Bytes: 110633
+Msg Flow MegaBytes: 110633.0
+Msg Send MegaBytes: 41669.0
+Msg Recv Bytes: 110633.0
+Data Length Avg: 150
+Data Frequency: 32.28363085728259
+Msg Length Avg: 114
+Msg Frequency: 31.857119474005483
+
+UserName:log_sum_info
+Date: {{2018,9,4},{11,47,59}}
+Begin Log Time: 32819971.373
+Op Times: 100383
+Msg Op Times: 98295
+Other Op Times: 2088
+Data Flow Bytes: 15084726
+Data Send Bytes: 8159569
+Data Recv Bytes: 6925157
+Data Flow MegaBytes: 15084726.0
+Data Send MegaBytes: 8159569.0
+Data Recv MegaBytes: 6925157.0
+Msg Flow Bytes: 11333536
+Msg Send Bytes: 4251465
+Msg Recv Bytes: 11333388
+Msg Flow MegaBytes: 11333536.0
+Msg Send MegaBytes: 4251465.0
+Msg Recv Bytes: 11333388.0
+Data Length Avg: 150
+Data Frequency: 2911.146984603821
+Msg Length Avg: 115
+Msg Frequency: 2850.594152910678
+
+UserName:a0
+Date: {{2018,9,4},{11,47,59}}
+Begin Log Time: 32823836.735
+Op Times: 984
+Msg Op Times: 971
+Other Op Times: 13
+Data Flow Bytes: 147583
+Data Send Bytes: 79493
+Data Recv Bytes: 68090
+Data Flow MegaBytes: 147583.0
+Data Send MegaBytes: 79493.0
+Data Recv MegaBytes: 68090.0
+Msg Flow Bytes: 110633
+Msg Send Bytes: 41669
+Msg Recv Bytes: 110633
+Msg Flow MegaBytes: 110633.0
+Msg Send MegaBytes: 41669.0
+Msg Recv Bytes: 110633.0
+Data Length Avg: 150
+Data Frequency: 32.28363085728259
+Msg Length Avg: 114
+Msg Frequency: 31.857119474005483
+
+UserName:log_sum_info
+Date: {{2018,9,4},{11,48,19}}
+Begin Log Time: 32819971.373
+Op Times: 203694
+Msg Op Times: 199799
+Other Op Times: 3895
+Data Flow Bytes: 30015390
+Data Send Bytes: 16264207
+Data Recv Bytes: 13751183
+Data Flow MegaBytes: 30015390.0
+Data Send MegaBytes: 16264207.0
+Data Recv MegaBytes: 13751183.0
+Msg Flow Bytes: 22401250
+Msg Send Bytes: 8324657
+Msg Recv Bytes: 22401186
+Msg Flow MegaBytes: 22401250.0
+Msg Send MegaBytes: 8324657.0
+Msg Recv Bytes: 22401186.0
+Data Length Avg: 147
+Data Frequency: 3159.5626608359626
+Msg Length Avg: 112
+Msg Frequency: 3099.146072404511
+
+UserName:a0
+Date: {{2018,9,4},{11,48,19}}
+Begin Log Time: 32823836.735
+Op Times: 2024
+Msg Op Times: 1993
+Other Op Times: 31
+Data Flow Bytes: 297504
+Data Send Bytes: 160479
+Data Recv Bytes: 137025
+Data Flow MegaBytes: 297504.0
+Data Send MegaBytes: 160479.0
+Data Recv MegaBytes: 137025.0
+Msg Flow Bytes: 221523
+Msg Send Bytes: 82762
+Msg Recv Bytes: 221523
+Msg Flow MegaBytes: 221523.0
+Msg Send MegaBytes: 82762.0
+Msg Recv Bytes: 221523.0
+Data Length Avg: 147
+Data Frequency: 33.420411889733614
+Msg Length Avg: 111
+Msg Frequency: 32.90853799221299
+
+UserName:log_sum_info
+Date: {{2018,9,4},{11,48,39}}
+Begin Log Time: 32819971.373
+Op Times: 299236
+Msg Op Times: 293432
+Other Op Times: 5804
+Data Flow Bytes: 44158789
+Data Send Bytes: 23925673
+Data Recv Bytes: 20233116
+Data Flow MegaBytes: 44158789.0
+Data Send MegaBytes: 23925673.0
+Data Recv MegaBytes: 20233116.0
+Msg Flow Bytes: 32972741
+Msg Send Bytes: 12263521
+Msg Recv Bytes: 32972733
+Msg Flow MegaBytes: 32972741.0
+Msg Send MegaBytes: 12263521.0
+Msg Recv Bytes: 32972733.0
+Data Length Avg: 148
+Data Frequency: 3167.5400418022573
+Msg Length Avg: 112
+Msg Frequency: 3106.1022388553515
+
+UserName:a0
+Date: {{2018,9,4},{11,48,40}}
+Begin Log Time: 32823836.735
+Op Times: 2990
+Msg Op Times: 2939
+Other Op Times: 51
+Data Flow Bytes: 441877
+Data Send Bytes: 238259
+Data Recv Bytes: 203618
+Data Flow MegaBytes: 441877.0
+Data Send MegaBytes: 238259.0
+Data Recv MegaBytes: 203618.0
+Msg Flow Bytes: 329612
+Msg Send Bytes: 123472
+Msg Recv Bytes: 329612
+Msg Flow MegaBytes: 329612.0
+Msg Send MegaBytes: 123472.0
+Msg Recv Bytes: 329612.0
+Data Length Avg: 148
+Data Frequency: 33.01490621911658
+Msg Length Avg: 112
+Msg Frequency: 32.45177571170021
+
+UserName:log_sum_info
+Date: {{2018,9,4},{11,48,59}}
+Begin Log Time: 32819971.373
+Op Times: 299236
+Msg Op Times: 293432
+Other Op Times: 5804
+Data Flow Bytes: 44158789
+Data Send Bytes: 23925673
+Data Recv Bytes: 20233116
+Data Flow MegaBytes: 44158789.0
+Data Send MegaBytes: 23925673.0
+Data Recv MegaBytes: 20233116.0
+Msg Flow Bytes: 32972741
+Msg Send Bytes: 12263521
+Msg Recv Bytes: 32972733
+Msg Flow MegaBytes: 32972741.0
+Msg Send MegaBytes: 12263521.0
+Msg Recv Bytes: 32972733.0
+Data Length Avg: 148
+Data Frequency: 3167.5400418022573
+Msg Length Avg: 112
+Msg Frequency: 3106.1022388553515
+
+UserName:a0
+Date: {{2018,9,4},{11,48,59}}
+Begin Log Time: 32823836.735
+Op Times: 2990
+Msg Op Times: 2939
+Other Op Times: 51
+Data Flow Bytes: 441877
+Data Send Bytes: 238259
+Data Recv Bytes: 203618
+Data Flow MegaBytes: 441877.0
+Data Send MegaBytes: 238259.0
+Data Recv MegaBytes: 203618.0
+Msg Flow Bytes: 329612
+Msg Send Bytes: 123472
+Msg Recv Bytes: 329612
+Msg Flow MegaBytes: 329612.0
+Msg Send MegaBytes: 123472.0
+Msg Recv Bytes: 329612.0
+Data Length Avg: 148
+Data Frequency: 33.01490621911658
+Msg Length Avg: 112
+Msg Frequency: 32.45177571170021
+
+UserName:log_sum_info
+Date: {{2018,9,4},{11,49,19}}
+Begin Log Time: 32819971.373
+Op Times: 406978
+Msg Op Times: 399280
+Other Op Times: 7698
+Data Flow Bytes: 60278340
+Data Send Bytes: 32651781
+Data Recv Bytes: 27626559
+Data Flow MegaBytes: 60278340.0
+Data Send MegaBytes: 32651781.0
+Data Recv MegaBytes: 27626559.0
+Msg Flow Bytes: 45072338
+Msg Send Bytes: 16793287
+Msg Recv Bytes: 45072274
+Msg Flow MegaBytes: 45072338.0
+Msg Send MegaBytes: 16793287.0
+Msg Recv Bytes: 45072274.0
+Data Length Avg: 148
+Data Frequency: 3269.0873411605176
+Msg Length Avg: 113
+Msg Frequency: 3207.2524646997417
+
+UserName:a0
+Date: {{2018,9,4},{11,49,19}}
+Begin Log Time: 32823836.735
+Op Times: 4012
+Msg Op Times: 3947
+Other Op Times: 65
+Data Flow Bytes: 596857
+Data Send Bytes: 321775
+Data Recv Bytes: 275082
+Data Flow MegaBytes: 596857.0
+Data Send MegaBytes: 321775.0
+Data Recv MegaBytes: 275082.0
+Msg Flow Bytes: 446348
+Msg Send Bytes: 167604
+Msg Recv Bytes: 446348
+Msg Flow MegaBytes: 446348.0
+Msg Send MegaBytes: 167604.0
+Msg Recv Bytes: 446348.0
+Data Length Avg: 149
+Data Frequency: 33.28774770436057
+Msg Length Avg: 113
+Msg Frequency: 32.748439728093516
+
+UserName:log_sum_info
+Date: {{2018,9,4},{11,49,39}}
+Begin Log Time: 32819971.373
+Op Times: 509766
+Msg Op Times: 500184
+Other Op Times: 9582
+Data Flow Bytes: 75466329
+Data Send Bytes: 40879444
+Data Recv Bytes: 34586885
+Data Flow MegaBytes: 75466329.0
+Data Send MegaBytes: 40879444.0
+Data Recv MegaBytes: 34586885.0
+Msg Flow Bytes: 56423113
+Msg Send Bytes: 21021525
+Msg Recv Bytes: 56423011
+Msg Flow MegaBytes: 56423113.0
+Msg Send MegaBytes: 21021525.0
+Msg Recv Bytes: 56423011.0
+Data Length Avg: 148
+Data Frequency: 3299.7263970227164
+Msg Length Avg: 113
+Msg Frequency: 3237.70190277188
+
+UserName:a0
+Date: {{2018,9,4},{11,49,39}}
+Begin Log Time: 32823836.735
+Op Times: 4990
+Msg Op Times: 4910
+Other Op Times: 80
+Data Flow Bytes: 739553
+Data Send Bytes: 398911
+Data Recv Bytes: 340642
+Data Flow MegaBytes: 739553.0
+Data Send MegaBytes: 398911.0
+Data Recv MegaBytes: 340642.0
+Msg Flow Bytes: 552649
+Msg Send Bytes: 207276
+Msg Recv Bytes: 552649
+Msg Flow MegaBytes: 552649.0
+Msg Send MegaBytes: 207276.0
+Msg Recv Bytes: 552649.0
+Data Length Avg: 148
+Data Frequency: 33.16104343755107
+Msg Length Avg: 113
+Msg Frequency: 32.62940346260035
+
+UserName:log_sum_info
+Date: {{2018,9,4},{11,49,59}}
+Begin Log Time: 32819971.373
+Op Times: 509766
+Msg Op Times: 500184
+Other Op Times: 9582
+Data Flow Bytes: 75466329
+Data Send Bytes: 40879444
+Data Recv Bytes: 34586885
+Data Flow MegaBytes: 75466329.0
+Data Send MegaBytes: 40879444.0
+Data Recv MegaBytes: 34586885.0
+Msg Flow Bytes: 56423113
+Msg Send Bytes: 21021525
+Msg Recv Bytes: 56423011
+Msg Flow MegaBytes: 56423113.0
+Msg Send MegaBytes: 21021525.0
+Msg Recv Bytes: 56423011.0
+Data Length Avg: 148
+Data Frequency: 3299.7263970227164
+Msg Length Avg: 113
+Msg Frequency: 3237.70190277188
+
+UserName:a0
+Date: {{2018,9,4},{11,49,59}}
+Begin Log Time: 32823836.735
+Op Times: 4990
+Msg Op Times: 4910
+Other Op Times: 80
+Data Flow Bytes: 739553
+Data Send Bytes: 398911
+Data Recv Bytes: 340642
+Data Flow MegaBytes: 739553.0
+Data Send MegaBytes: 398911.0
+Data Recv MegaBytes: 340642.0
+Msg Flow Bytes: 552649
+Msg Send Bytes: 207276
+Msg Recv Bytes: 552649
+Msg Flow MegaBytes: 552649.0
+Msg Send MegaBytes: 207276.0
+Msg Recv Bytes: 552649.0
+Data Length Avg: 148
+Data Frequency: 33.16104343755107
+Msg Length Avg: 113
+Msg Frequency: 32.62940346260035
+
+UserName:log_sum_info
+Date: {{2018,9,4},{11,50,19}}
+Begin Log Time: 32819971.373
+Op Times: 608361
+Msg Op Times: 596929
+Other Op Times: 11432
+Data Flow Bytes: 90580515
+Data Send Bytes: 49052292
+Data Recv Bytes: 41528223
+Data Flow MegaBytes: 90580515.0
+Data Send MegaBytes: 49052292.0
+Data Recv MegaBytes: 41528223.0
+Msg Flow Bytes: 67842029
+Msg Send Bytes: 25328379
+Msg Recv Bytes: 67842027
+Msg Flow MegaBytes: 67842029.0
+Msg Send MegaBytes: 25328379.0
+Msg Recv Bytes: 67842027.0
+Data Length Avg: 149
+Data Frequency: 3297.904213398028
+Msg Length Avg: 114
+Msg Frequency: 3235.9317316518836
+
+UserName:a0
+Date: {{2018,9,4},{11,50,19}}
+Begin Log Time: 32823836.735
+Op Times: 5952
+Msg Op Times: 5850
+Other Op Times: 102
+Data Flow Bytes: 884833
+Data Send Bytes: 477106
+Data Recv Bytes: 407727
+Data Flow MegaBytes: 884833.0
+Data Send MegaBytes: 477106.0
+Data Recv MegaBytes: 407727.0
+Msg Flow Bytes: 662108
+Msg Send Bytes: 248907
+Msg Recv Bytes: 662108
+Msg Flow MegaBytes: 662108.0
+Msg Send MegaBytes: 248907.0
+Msg Recv Bytes: 662108.0
+Data Length Avg: 149
+Data Frequency: 32.959056811025334
+Msg Length Avg: 113
+Msg Frequency: 32.39423426486865
+
+UserName:log_sum_info
+Date: {{2018,9,4},{11,50,39}}
+Begin Log Time: 32819971.373
+Op Times: 711742
+Msg Op Times: 698512
+Other Op Times: 13230
+Data Flow Bytes: 105489998
+Data Send Bytes: 57145809
+Data Recv Bytes: 48344189
+Data Flow MegaBytes: 105489998.0
+Data Send MegaBytes: 57145809.0
+Data Recv MegaBytes: 48344189.0
+Msg Flow Bytes: 78879697
+Msg Send Bytes: 29383689
+Msg Recv Bytes: 78879677
+Msg Flow MegaBytes: 78879697.0
+Msg Send MegaBytes: 29383689.0
+Msg Recv Bytes: 78879677.0
+Data Length Avg: 148
+Data Frequency: 3318.6313630447626
+Msg Length Avg: 113
+Msg Frequency: 3256.943991872228
+
+UserName:a0
+Date: {{2018,9,4},{11,50,39}}
+Begin Log Time: 32823836.735
+Op Times: 6988
+Msg Op Times: 6864
+Other Op Times: 124
+Data Flow Bytes: 1033130
+Data Send Bytes: 557367
+Data Recv Bytes: 475763
+Data Flow MegaBytes: 1033130.0
+Data Send MegaBytes: 557367.0
+Data Recv MegaBytes: 475763.0
+Msg Flow Bytes: 771569
+Msg Send Bytes: 289191
+Msg Recv Bytes: 771569
+Msg Flow MegaBytes: 771569.0
+Msg Send MegaBytes: 289191.0
+Msg Recv Bytes: 771569.0
+Data Length Avg: 148
+Data Frequency: 33.18241034806472
+Msg Length Avg: 112
+Msg Frequency: 32.59359825831658
+
+UserName:log_sum_info
+Date: {{2018,9,4},{11,50,59}}
+Begin Log Time: 32819971.373
+Op Times: 711742
+Msg Op Times: 698512
+Other Op Times: 13230
+Data Flow Bytes: 105489998
+Data Send Bytes: 57145809
+Data Recv Bytes: 48344189
+Data Flow MegaBytes: 105489998.0
+Data Send MegaBytes: 57145809.0
+Data Recv MegaBytes: 48344189.0
+Msg Flow Bytes: 78879697
+Msg Send Bytes: 29383689
+Msg Recv Bytes: 78879677
+Msg Flow MegaBytes: 78879697.0
+Msg Send MegaBytes: 29383689.0
+Msg Recv Bytes: 78879677.0
+Data Length Avg: 148
+Data Frequency: 3318.6313630447626
+Msg Length Avg: 113
+Msg Frequency: 3256.943991872228
+
+UserName:a0
+Date: {{2018,9,4},{11,50,59}}
+Begin Log Time: 32823836.735
+Op Times: 6988
+Msg Op Times: 6864
+Other Op Times: 124
+Data Flow Bytes: 1033130
+Data Send Bytes: 557367
+Data Recv Bytes: 475763
+Data Flow MegaBytes: 1033130.0
+Data Send MegaBytes: 557367.0
+Data Recv MegaBytes: 475763.0
+Msg Flow Bytes: 771569
+Msg Send Bytes: 289191
+Msg Recv Bytes: 771569
+Msg Flow MegaBytes: 771569.0
+Msg Send MegaBytes: 289191.0
+Msg Recv Bytes: 771569.0
+Data Length Avg: 148
+Data Frequency: 33.18241034806472
+Msg Length Avg: 112
+Msg Frequency: 32.59359825831658
+
+UserName:log_sum_info
+Date: {{2018,9,4},{11,51,19}}
+Begin Log Time: 32819971.373
+Op Times: 811298
+Msg Op Times: 796177
+Other Op Times: 15121
+Data Flow Bytes: 120590320
+Data Send Bytes: 65309640
+Data Recv Bytes: 55280680
+Data Flow MegaBytes: 120590320.0
+Data Send MegaBytes: 65309640.0
+Data Recv MegaBytes: 55280680.0
+Msg Flow Bytes: 90261942
+Msg Send Bytes: 33673077
+Msg Recv Bytes: 90261750
+Msg Flow MegaBytes: 90261942.0
+Msg Send MegaBytes: 33673077.0
+Msg Recv Bytes: 90261750.0
+Data Length Avg: 149
+Data Frequency: 3318.6050390742785
+Msg Length Avg: 113
+Msg Frequency: 3256.752764329558
+
+UserName:a0
+Date: {{2018,9,4},{11,51,19}}
+Begin Log Time: 32823836.735
+Op Times: 8004
+Msg Op Times: 7851
+Other Op Times: 153
+Data Flow Bytes: 1183165
+Data Send Bytes: 638489
+Data Recv Bytes: 544676
+Data Flow MegaBytes: 1183165.0
+Data Send MegaBytes: 638489.0
+Data Recv MegaBytes: 544676.0
+Msg Flow Bytes: 883841
+Msg Send Bytes: 331324
+Msg Recv Bytes: 883841
+Msg Flow MegaBytes: 883841.0
+Msg Send MegaBytes: 331324.0
+Msg Recv Bytes: 883841.0
+Data Length Avg: 148
+Data Frequency: 33.277336301729335
+Msg Length Avg: 113
+Msg Frequency: 32.641225300459396
+

@@ -1,0 +1,34 @@
+chat_room_server:server().
+
+chat_channel_server:start_link(ch0).
+
+chat_channel_server:start_link(ch1).
+
+chat_channel_server:start_link(ch2).
+
+
+chat_client_server:start_link(a0).
+
+
+chat_client_server:command(a0, {world_chat, a0wchello}).
+
+chat_client_server:command(a0, {private_chat, a1, a0pchello}).
+
+chat_client_server:command(a0, {channel_chat, a0cchello}).
+
+chat_client_server:command(a0, {near_chat, a0nchello}).
+
+
+chat_client_server:command(a0, {leave_channel, ch0}).
+
+chat_client_server:command(a0, {leave_channel, ch1}).
+
+chat_client_server:command(a0, {change_current_channel, ch1}).
+
+chat_client_server:command(a0, {change_current_channel, ch0}).
+
+chat_client_server:command(a0, {join_channel, ch1}).
+
+chat_client_server:command(a0, {change_current_channel, ch1}).
+
+chat_client_server:command(a0, {channel_chat, a0ccch1hello}).

@@ -1,0 +1,43 @@
+{1, "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal."}.
+{2, "Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure."}.
+{3, "We are met on a great battle-field of that war. "}.
+{4, "We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that nation might live. "}.
+{5, "It is altogether fitting and proper that we should do this."}.
+{6, "But, in a larger sense, we can not dedicate -- we can not consecrate -- we can not hallow -- this ground. "}.
+{7, "The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract."}.
+{8, "The world will little note, nor long remember what we say here, but it can never forget what they did here. "}.
+{9, "It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. "}.
+{10, "It is rather for us to be here dedicated to the great task remaining before us -- that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion -- that we here highly resolve that these dead shall not have died in vain -- that this nation, under God, shall have a new birth of freedom -- and that government of the people, by the people, for the people, shall not perish from the earth."}.
+{11, "The module make provides a set of functions similar to the UNIX type Make functions."}.
+{12, "This function determines the set of modules to compile and the compile options to use, by first looking for the emake make option, if not present reads the configuration from a file named Emakefile (see below)."}.
+{13, "If no such file is found, the set of modules to compile defaults to all modules in the current working directory."}.
+{14, "Traversing the set of modules, it then recompiles every module for which at least one of the following conditions apply"}.
+{15, "there is no object file, or"}.
+{16, "the source file has been modified since it was last compiled, or,"}.
+{17, "an include file has been modified since the source file was last compiled."}.
+{18, "As a side effect, the function prints the name of each module it tries to compile."}.
+{19, "If compilation fails for a module, the make procedure stops and error is returned."}.
+{20, "Options is a list of make- and compiler options. The following make options exist:"}.
+{21, "noexec "}.
+{22, "No execution mode. "}.
+{23, "Just prints the name of each module that needs to be compiled."}.
+{24, "load"}.
+{25, "Load mode."}.
+{26, "Loads all recompiled modules."}.
+{27, "netload"}.
+{28, "Net load mode."}.
+{29, "Loads all recompiled modules on all known nodes."}.
+{30, "Rather than reading the Emakefile specify configuration explicitly."}.
+{31, "All items in Options that are not make options are assumed to be compiler options and are passed as-is to compile:file/2. Options defaults to []."}.
+{32, "files/1,2 does exactly the same thing as all/0,1 but for the specified ModFiles, which is a list of module or file names. "}.
+{33, "The file extension .erl may be omitted."}.
+{34, "The Emakefile (if it exists) in the current directory is searched for compiler options for each module. "}.
+{35, " If a given module does not exist in Emakefile or if Emakefile does not exist, the module is still compiled."}.
+{36, "make:all/0,1 and make:files/1,2 first looks for {emake, Emake} in options, then in the current working directory for a file named Emakefile."}.
+{37, "Modules is an atom or a list of atoms."}.
+{38, "a module name, e.g. file1"}.
+{39, "a module name in another directory, e.g. ../foo/file3"}.
+{40, "a set of modules specified with a wildcards, e.g. 'file*'"}.
+
+
+

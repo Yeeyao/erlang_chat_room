@@ -1,0 +1,19 @@
+%%%-------------------------------------------------------------------
+%%% @author huangyao
+%%% @copyright (C) 2018, <COMPANY>
+%%% @doc
+%%%
+%%% @end
+%%% Created : 16. 八月 2018 10:26
+%%%-------------------------------------------------------------------
+{application, chat_room, [
+    {description, ""},
+    {vsn, "1"},
+    {registered, []},
+    {applications, [
+        kernel,
+        stdlib
+    ]},
+    {mod, {chat_room, []}},
+    {env, []}
+]}.
